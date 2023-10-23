@@ -1,8 +1,9 @@
 # GameEngine
 # build
+cd ./code/GE
  mkdir build  
  cd ./build  
  cmake ..
 
- # Platform
+ # Envoirnment
  win64 VS2019
